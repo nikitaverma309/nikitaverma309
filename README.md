@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nikita verma</h1>
-<h3 align="center">I'm a passionate Flutter developer from India I love building beautiful and functional mobile applications that provide great user experiences.</h3>
+<h3 align="center">I'm a passionate Flutter developer from India </h3>
 
-- 🔭 I’m currently working on [Nic](https://play.google.com/store/search?q=chhattisgarh+budget&c=apps&hl=en_IN)
+- 🔭 I’m currently working in [Nic](https://play.google.com/store/search?q=chhattisgarh+budget&c=apps&hl=en_IN)
 
 - 💬 Ask me about **flutter**
 
