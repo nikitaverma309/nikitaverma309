@@ -19,3 +19,10 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikitaverma309&show_icons=true&locale=en&layout=compact" alt="nikitaverma309" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nikitaverma309&show_icons=true&locale=en" alt="nikitaverma309" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chiragsahu&show_icons=true&locale=en" alt="chiragsahu" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chiragsahu&" alt="chiragsahu" /></p>
+
+<p align="right">
+  <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/chiragsahu/chiragsahu/blob/main/devcard.svg" width="250" height="300" alt="Chirag Sahu's Dev Card"/></a>
+ </p>
