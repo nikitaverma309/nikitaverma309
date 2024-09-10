@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nikita verma</h1>
 <h3 align="center">I'm a passionate Flutter developer from India </h3>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nikitaverma309&label=Profile%20views&color=0e75b6&style=flat" alt="nikitaverma309" /> </p>
 - 🔭 I’m currently working in [Nic](https://play.google.com/store/search?q=chhattisgarh+budget&c=apps&hl=en_IN)
 
 - 💬 Ask me about **flutter**
